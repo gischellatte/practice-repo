@@ -1,3 +1,3 @@
 #Practising github
-
-Practising git and github
+ 
+ Learning how to use Git and Github
